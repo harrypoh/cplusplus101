@@ -1,3 +1,4 @@
+// Test
 // CODE FILENAME: Binary converterLeBouefAssn6
 // DESCRIPTION:   This just converts binary to decimal
 // CLASS/TERM:    Coding 101
