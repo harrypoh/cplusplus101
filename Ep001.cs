@@ -102,7 +102,8 @@ namespace Coding101
             return decimalNumber; //return the result back
         }
 
-        #endregion
+        #endreg
+        
     }
 
 }
